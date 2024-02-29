@@ -16,7 +16,7 @@ Para comenzar, sigue estos pasos:
      - **Group**: net.codejava
      - **Artifact**: SpringBootHelloWorld
      - **Dependencies**: Elige "Web" para habilitar el manejo de solicitudes HTTP.
-
+![](https://github.com/AlejoCNYT/cvds-LAB-5.1/blob/main/img/Captura%20de%20pantalla%202024-02-29%20172654.png)
 2. **Estructura del Proyecto**:
    - Descomprime el archivo descargado en una carpeta.
    - Abre el archivo `pom.xml` y elimina la dependencia `spring-boot-starter-test`.
