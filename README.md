@@ -20,7 +20,7 @@ Para comenzar, sigue estos pasos:
 2. **Estructura del Proyecto**:
    - Descomprime el archivo descargado en una carpeta.
    - Abre el archivo `pom.xml` y elimina la dependencia `spring-boot-starter-test`.
-
+![](https://github.com/AlejoCNYT/cvds-LAB-5.1/blob/main/img/Captura%20de%20pantalla%202024-02-29%20181206.png)
 ### 3. Creación del Controlador
 1. **Crea un controlador**:
    - Abre la clase `SpringBootHelloWorldApplication.java`.
