@@ -31,7 +31,7 @@ Para comenzar, sigue estos pasos:
    - Ejecuta la aplicación usando el comando `mvn spring-boot:run`.
    - ![](https://github.com/AlejoCNYT/cvds-LAB-5.1/blob/main/img/Captura%20de%20pantalla%202024-02-29%20190218.png)
    - Accede a ella desde el navegador en [http://localhost:8080/](http://localhost:8080/).
-     ![]()
+     ![](https://github.com/AlejoCNYT/cvds-LAB-5.1/blob/main/img/Captura%20de%20pantalla%202024-02-29%20190327.png)
 3. **Personalización del Mensaje**:
    - Modifica el método `home()` para usar etiquetas HTML y agrega otro método con `@RequestMapping("/new")` que devuelva otro mensaje.
 
