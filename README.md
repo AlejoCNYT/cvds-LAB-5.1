@@ -38,9 +38,10 @@ Para comenzar, sigue estos pasos:
 ### 4. Empaquetado y Ejecución
 1. **Empaqueta la Aplicación**:
    - Ejecuta `mvn package` para crear un archivo JAR ejecutable.
-
+     ![](https://github.com/AlejoCNYT/cvds-LAB-5.1/blob/main/img/Captura%20de%20pantalla%202024-02-29%20193557.png)
 2. **Ejecuta la Aplicación**:
    - Ejecuta la aplicación con el comando `java -jar target/SpringBootHelloWorld-0.0.1-SNAPSHOT.jar`.
+     ![]()
 
 ¡Listo! Ahora tienes un proyecto Spring Boot con un servicio "Hello World".
 
