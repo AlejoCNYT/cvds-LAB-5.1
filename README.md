@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # LAB 5.1: Aplicación 
+
+* Daniel Alejandro AV
+* Julian Triana
 
 ## Capítulo 1: Creación proyecto Spring Boot
 
